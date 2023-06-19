@@ -28,3 +28,7 @@ recognize pet's facial expression
 
 provides filters that fit pet's emotion
 
+
+![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/02ad11e5-2f27-45c5-a6b1-6416bd6355b0)
+
+SNS for pets and protectors
