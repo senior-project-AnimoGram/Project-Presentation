@@ -3,11 +3,6 @@
 
 
 
-
-
-
-
-
 # Market Research
 
 
