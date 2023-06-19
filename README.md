@@ -15,7 +15,10 @@ App Name
 ![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/1068b37f-f9db-4c0b-bb4e-6da6d6244342)
 
 
+
+
 App Description
+
 ![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/449264cc-e831-4979-b72d-8d5771ed1942)
 
 recognize pet's facial expression
