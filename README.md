@@ -1,7 +1,7 @@
 # Animogram
 
 
-Market Research
+# Market Research
 
 
 ![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/1faeb961-c838-4b80-99f8-36ee76cf277f)
@@ -9,7 +9,7 @@ Market Research
 
 
 
-App Name
+# App Name
 
 
 ![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/1068b37f-f9db-4c0b-bb4e-6da6d6244342)
@@ -17,7 +17,7 @@ App Name
 
 
 
-App Description
+# App Description
 
 ![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/449264cc-e831-4979-b72d-8d5771ed1942)
 
