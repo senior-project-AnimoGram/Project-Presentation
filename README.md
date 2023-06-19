@@ -43,3 +43,29 @@ SNS for pets and protectors
 ![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/dc664197-4817-4126-9fb9-fa625183ef3a)
 
 
+# Technology
+
+CNN Model
+
+![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/10aadfa2-8de3-4295-b2db-1f59be55c2b1)
+
+
+OpenCV & Dlib
+
+![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/71891388-d1e0-44fa-b6d7-ea2d3da43ae8)
+
+
+![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/69c58d03-a2b0-49f8-b873-a3727a77bc61)
+
+
+# Plan
+
+![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/790babfe-ac01-459d-91cf-a36b1da85736)
+
+
+# Role
+
+![image](https://github.com/senior-project-AnimoGram/Project-Presentation/assets/115504766/3f666f9b-4436-47c2-9eb7-480037fa42c1)
+
+
+
